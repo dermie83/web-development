@@ -10,4 +10,7 @@ body {
     border-bottom: 1px solid black;
   }
 
-  
+  img {
+    width: 50%;
+    height: 50%;
+  }
