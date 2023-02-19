@@ -24,3 +24,29 @@ p {
 .special {
   color: maroon;
 }
+
+.guarantee {
+  border-color: black;
+  border-width: 1px;
+  border-style: solid;
+  background-color: #a7cece;
+  
+  margin: 30px;
+
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: left;
+  padding: 25px;
+  padding-left: 80px;
+  margin-right: 150px;
+
+  line-height: 1.9em;
+  font-style: italic;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: black;
+
+  border-color: white;
+  border-width: 1px;
+  border-style: dashed;
+}
+
